@@ -43,44 +43,44 @@ Database: MySQL
 
 #### **Home Page**: Lets take a dive into our portal!
 
-![product](./doc/Home Page.png)
+![home](./doc/Home Page.png)
 
 #### **Steps for registration of a student**: 
 
 1. Student Dashboard
   
-     ![product](./doc/Student Dashboard.png)
+     ![student](./doc/Student Dashboard.png)
 
 2.  Faculty Login
     
-     ![product](./doc/Faculty Login.png)
+     ![login](./doc/Faculty Login.png)
 
 #### **Registration for Faculty**: 
 
 3. Faculty Registration
    
-     ![product](./doc/Faculty Registration.png)
+     ![registration](./doc/Faculty Registration.png)
 
 #### **Faculty Dashboard**: 
 
 4. Faculty Dashboard
    
-     ![product](./doc/Faculty Dashboard.png)
+     ![dashboard](./doc/Faculty Dashboard.png)
 
 5.  Profile Modifications
     
-     ![product](./doc/Profile Updates.png)
+     ![profile](./doc/Profile Updates.png)
 
 
 6. Classes Modifications
     
-     ![product](./doc/Classes Modifications.png)
+     ![modification](./doc/Classes Modifications.png)
 
 #### **Attendance Statistics**: 
 
 7. Statistics
     
-     ![product](./doc/Statistics.png)
+     ![statistics](./doc/Statistics.png)
   
 8. Logout
   
