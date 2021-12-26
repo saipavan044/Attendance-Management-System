@@ -28,9 +28,13 @@ In the home page the users can see the Log in form an d the sign in form .To ent
 ### Built With
 
 Front-end: HTML
+
            CSS
+
 Back-end: Php
+
           JavaScript
+
 Database: MySQL
 
 <!-- USAGE  -->
@@ -39,7 +43,7 @@ Database: MySQL
 
 #### **Home Page**: Lets take a dive into our portal!
 
-![product-home](./doc/Home Page.png)
+![product](./doc/Home Page.png)
 
 #### **Steps for registration of a student**: 
 
@@ -49,7 +53,7 @@ Database: MySQL
 
 2.  Faculty Login
     
-     ![product-otpMail](./doc/Faculty Login.png)
+     ![product](./doc/Faculty Login.png)
 
 #### **Registration for Faculty**: 
 
@@ -65,7 +69,7 @@ Database: MySQL
 
 5.  Profile Modifications
     
-     ![product-otpMail](./doc/Profile Updates.png)
+     ![product](./doc/Profile Updates.png)
 
 
 6. Classes Modifications
@@ -88,6 +92,7 @@ Database: MySQL
 ## Contact Details
 
 Sai Pavan
+
 Mail - saipavan044@gmail.com
 
 LinkedIn  - https://www.linkedin.com/in/saipavan044/
