@@ -1,6 +1,6 @@
+<!-- TABLE OF CONTENTS -->
 # AttendanceMS
 Attendance Management System
-<details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
@@ -13,7 +13,6 @@ Attendance Management System
     <li><a href="#contact">Contact Details</a></li>
     <li><a href="#outcome">Project Outcome</a></li>
   </ol>
-</details>
 
 
 
