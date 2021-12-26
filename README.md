@@ -29,11 +29,11 @@ In the home page the users can see the Log in form an d the sign in form .To ent
 
 Front-end: HTML
 
-           CSS
+      CSS
 
 Back-end: Php
 
-          JavaScript
+     JavaScript
 
 Database: MySQL
 
