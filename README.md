@@ -49,38 +49,38 @@ Database: MySQL
 
 1. Student Dashboard
   
-     ![student](./doc/Student Dashboard.png)
+     ![student](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Student%20Dashboard.png)
 
 2.  Faculty Login
     
-     ![login](./doc/Faculty Login.png)
+     ![login](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Faculty%20Login.png)
 
 #### **Registration for Faculty**: 
 
 3. Faculty Registration
    
-     ![registration](./doc/Faculty Registration.png)
+     ![registration](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Faculty%20Registration.png)
 
 #### **Faculty Dashboard**: 
 
 4. Faculty Dashboard
    
-     ![dashboard](./doc/Faculty Dashboard.png)
+     ![dashboard](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Faculty%20Dashboard.png)
 
 5.  Profile Modifications
     
-     ![profile](./doc/Profile Updates.png)
+     ![profile](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Profile%20Updates.png)
 
 
 6. Classes Modifications
     
-     ![modification](./doc/Classes Modifications.png)
+     ![modification](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Classes%20Modifications.png)
 
 #### **Attendance Statistics**: 
 
 7. Statistics
     
-     ![statistics](./doc/Statistics.png)
+     ![statistics](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Statistics.png)
   
 8. Logout
   
