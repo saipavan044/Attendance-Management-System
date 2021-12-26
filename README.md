@@ -43,7 +43,7 @@ Database: MySQL
 
 #### **Home Page**: Lets take a dive into our portal!
 
-![home](./doc/Home Page.png)
+![home](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Home%20Page.png)
 
 #### **Steps for registration of a student**: 
 
