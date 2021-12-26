@@ -29,7 +29,7 @@ In the home page the users can see the Log in form an d the sign in form .To ent
 
 Front-end: HTML,CSS
 
-Back-end: Php,JavaScript
+Back-end: PHP,JavaScript
 
 Database: MySQL
 
