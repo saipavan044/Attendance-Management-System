@@ -23,7 +23,7 @@ Attendance Management System
 
 Detailed explanation of the project is given below.
 
-In the home page the users can see the Log in form an d the sign in form .To enter in to system the teachers and the students should sign up and then they can log in to the system.After the log in system the users go to their profile dashboard where they can enter their classes that need to attend .Student had their own page where they can add the details to attend the course ,student should know the code number of the attending class.Teachers can add the class that they teaches by filling all the details that are needed. The class code number is impotent so that the student can attendant the attendance of the particular classes.They can logout at any time.
+In the home page the users can see the Log in form and the sign in form .To enter in to system the teachers and the students should sign up and then they can log in to the system.After the log in system the users go to their profile dashboard where they can enter their classes that need to attend .Student had their own page where they can add the details to attend the course ,student should know the code number of the attending class.Teachers can add the class that they teaches by filling all the details that are needed. The class code number is impotent so that the student can attendant the attendance of the particular classes.They can logout at any time.
 
 ### Built With
 
